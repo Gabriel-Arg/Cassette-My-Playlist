@@ -1,0 +1,10 @@
+@media screen and (max-width: 576px) {
+
+    body .container-fluid .container {
+        padding: 0;
+    }
+
+
+
+
+}
