@@ -75,7 +75,6 @@ body .container-fluid .container .row .lista .lista_btn .lista_btn_detalles h5 {
   margin: 0;
 }
 body .container-fluid .container .row .play {
-  border: 1px solid orangered;
   width: 47%;
   height: 100%;
   display: flex;
@@ -84,6 +83,15 @@ body .container-fluid .container .row .play {
   align-items: center;
 }
 body .container-fluid .container .row .play iframe {
+  border-radius: 10px;
+  width: 100%;
+  height: 315px;
+}
+body .container-fluid .container .row .play .cassette {
+  height: 30%;
+  width: 200px;
+}
+body .container-fluid .container .row .play .cassette img {
   width: 100%;
 }
 
